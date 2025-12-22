@@ -1,0 +1,10 @@
+{
+  "username": "dipanshu247kumar@gmail.com",
+  "headers": {
+    "Content-Type": "application/json",
+    "Authorization": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjg5NSwidGVhbUlkIjoxNCwiaXNBcGlLZXkiOnRydWUsImlhdCI6MTc0MzQ0MDIyNX0.rOSZqApK3s-HHBzl9Js7p3xED-2ltdcnphP5RYFfDjw",
+    "User-Agent": "Crave"
+  },
+  "projects": [],
+  "server": "https://foss.crave.io/api"
+}
